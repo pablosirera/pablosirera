@@ -1,0 +1,32 @@
+{
+  "name": "pablosirera",
+  "version": "1.0.0",
+  "description": "pablosirera Github README",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosirera/pablosirera.git"
+  },
+  "keywords": [
+    "readme",
+    "github",
+    "profile",
+    "github",
+    "readme"
+  ],
+  "author": "Pablo Sirera (https://pablosirera.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablosirera/pablosirera/issues"
+  },
+  "homepage": "https://github.com/pablosirera/pablosirera#readme",
+  "dependencies": {
+    "node-fetch": "2.6.0",
+    "rss-parser": "3.8.0"
+  }
+}

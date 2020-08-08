@@ -1,0 +1,30 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 */1 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+      - run: npm install
+      - run: npm run update-readme
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - run: |
+          git config user.name pablosirera
+          git config user.email psirera4@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+          git push origin master
