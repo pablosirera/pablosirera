@@ -23,8 +23,8 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       - run: |
-          git config user.name pablosirera
-          git config user.email psirera4@gmail.com
+          git config user.name 'pablosirera'
+          git config user.email 'psirera4@gmail.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+          git commit -am "[bot] Update README with latest info"
           git push origin master
