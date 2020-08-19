@@ -19,6 +19,7 @@ const getLatestArticlesFromBlog = () =>
 const getPhotosFromInstagram = async () => {
   const response = await fetch(`https://www.instagram.com/pablodeveloper/`);
   const text = await response.text();
+  console.log(text)
   const json = JSON.parse(text.match(INSTAGRAM_REGEXP)[1]);
   const edges = json.entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.edges.splice(
     0,
