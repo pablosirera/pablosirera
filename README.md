@@ -45,29 +45,29 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/OwPyOMmpKCM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OwPyOMmpKCM/mqdefault.jpg' alt='Cómo OPTIMIZAR IMÁGENES para web con github actions y más | 🔴 Live' />
+</a>
+<a href='https://youtu.be/5L2ZRpwFwuY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5L2ZRpwFwuY/mqdefault.jpg' alt='Deep dive 🔎en mi portfolio con Nuxt & un rato de charla (Teletrabajo, Vue3 y más) | 🔴Live' />
+</a>
 <a href='https://youtu.be/FcxlrEwrJkw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FcxlrEwrJkw/mqdefault.jpg' alt='Añadir modo oscuro a una aplicación VUE | 🔴 Live Coding #12' />
-</a>
-<a href='https://youtu.be/McZZrYNBhTc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/McZZrYNBhTc/mqdefault.jpg' alt='Mejorando nuestra aplicación con Vue y FIREBASE | 🔴 Live Coding #11' />
-</a>
-<a href='https://youtu.be/1W_3c7O9E8k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1W_3c7O9E8k/mqdefault.jpg' alt='Crear un blog con Nuxt y Nuxt Content + SEO tips | 🔴 Live' />
 </a>
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/pablodeveloper):
 
-<a href='https://www.instagram.com/p/CDl8H3dCR-o/' target='_blank'>
-  <img width='20%' src='https://instagram.fvlc1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c160.0.959.959a/s640x640/117040342_149351193460240_6566710176855024259_n.jpg?_nc_ht=instagram.fvlc1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=0lqef-tfwvoAX8fMgR5&oh=baa1fd883f8604e87601058ddb43390f&oe=5F59CF69' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CD9p2DfCKgf/' target='_blank'>
+  <img width='20%' src='https://instagram.fvlc1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c316.0.808.808a/s640x640/117600836_332885038085750_4578417196327848577_n.jpg?_nc_ht=instagram.fvlc1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=v8vhlFyG1RUAX8bLeJt&oh=68ee8145feaad48e4e9dac7d895a0c47&oe=5F7196F5' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CDd9nPuiPmE/' target='_blank'>
-  <img width='20%' src='https://instagram.fvlc1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116598800_123306312499058_7091274208545489572_n.jpg?_nc_ht=instagram.fvlc1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=MbniddhJBXMAX9TNCbV&oh=b8715c85ac29db9bb63da03d56879372&oe=5F57267D' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CD3vHZqC6gj/' target='_blank'>
+  <img width='20%' src='https://instagram.fvlc1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/117370068_186956109455158_5341066044439510055_n.jpg?_nc_ht=instagram.fvlc1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=gNSXRBqVZkUAX_1RPYV&oh=93b619edcf1447e9f930e5a1c5c8d1ba&oe=5F717A25' alt='Instagram photo' />
 </a>
-<a href='https://www.instagram.com/p/CDa01iBCaw-/' target='_blank'>
-  <img width='20%' src='https://instagram.fvlc1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/116427336_636454343635233_5131330113934239440_n.jpg?_nc_ht=instagram.fvlc1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=MpLoxXCkLoEAX_peOKX&oh=48df8a326601ca14dc4b05018d6d23b4&oe=5F57ADFE' alt='Instagram photo' />
+<a href='https://www.instagram.com/p/CD1JV9uiTU9/' target='_blank'>
+  <img width='20%' src='https://instagram.fvlc1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117612999_172102821103648_5451303179949548800_n.jpg?_nc_ht=instagram.fvlc1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=l2wFfl-SiR4AX9-zjC7&oh=4734012ce81173a71bbda4a3c829bfbc&oe=5F71791A' alt='Instagram photo' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
+- [Mi actual setup](https://pablosirera.com/blog/my-setup)
 - [Crear una aplicación Vue desde cero](https://pablosirera.com/blog/create-vue-app)
 - [Desconectar para volver a conectar](https://pablosirera.com/blog/disconnect)
-- [Estructura de carpetas en Vue](https://pablosirera.com/blog/scaffolding-vue)
