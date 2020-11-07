@@ -46,8 +46,10 @@
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 %{{latest_youtube}}%
 
+[comment]: <> (
 #### 📸 Latest photos on [my Instagram](https://instagram.com/pablodeveloper):
 %{{latest_instagram}}%
+)
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 %{{latest_articles}}%
