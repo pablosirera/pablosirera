@@ -55,11 +55,6 @@
   <img width='30%' src='https://img.youtube.com/vi/4rfExjI-H9U/mqdefault.jpg' alt='Crear DARK 🌚 MODE con NUXT y TAILWIND | Curso de Nuxtjs #03' />
 </a>
 
-[comment]: <> (
-#### 📸 Latest photos on [my Instagram](https://instagram.com/pablodeveloper):
-%{{latest_instagram}}%
-)
-
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 - [Mi setup como desarrollador web](https://pablosirera.com/blog/mi-setup-como-desarrollador-web)
 - [Crear una aplicación Vue desde cero](https://pablosirera.com/blog/crear-aplicacion-vue-desde-cero)
