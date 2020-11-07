@@ -45,29 +45,20 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
-<a href='https://youtu.be/OwPyOMmpKCM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OwPyOMmpKCM/mqdefault.jpg' alt='Cómo OPTIMIZAR IMÁGENES para web con github actions y más | 🔴 Live' />
+<a href='https://youtu.be/o-b6zCdy_Qs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/o-b6zCdy_Qs/mqdefault.jpg' alt='Crear login page nuxt | Curso Nuxtjs #05' />
 </a>
-<a href='https://youtu.be/5L2ZRpwFwuY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5L2ZRpwFwuY/mqdefault.jpg' alt='Deep dive 🔎en mi portfolio con Nuxt & un rato de charla (Teletrabajo, Vue3 y más) | 🔴Live' />
+<a href='https://youtu.be/dOxMoQqYR8w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dOxMoQqYR8w/mqdefault.jpg' alt='Crear componentes base con Nuxt y Vue | Curso Nuxtjs #04' />
 </a>
-<a href='https://youtu.be/FcxlrEwrJkw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FcxlrEwrJkw/mqdefault.jpg' alt='Añadir modo oscuro a una aplicación VUE | 🔴 Live Coding #12' />
+<a href='https://youtu.be/4rfExjI-H9U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4rfExjI-H9U/mqdefault.jpg' alt='Crear DARK 🌚 MODE con NUXT y TAILWIND | Curso de Nuxtjs #03' />
 </a>
 
 #### 📸 Latest photos on [my Instagram](https://instagram.com/pablodeveloper):
-
-<a href='https://www.instagram.com/p/CD9p2DfCKgf/' target='_blank'>
-  <img width='20%' src='https://instagram.fvlc1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c316.0.808.808a/s640x640/117600836_332885038085750_4578417196327848577_n.jpg?_nc_ht=instagram.fvlc1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=v8vhlFyG1RUAX8bLeJt&oh=68ee8145feaad48e4e9dac7d895a0c47&oe=5F7196F5' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CD3vHZqC6gj/' target='_blank'>
-  <img width='20%' src='https://instagram.fvlc1-2.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/117370068_186956109455158_5341066044439510055_n.jpg?_nc_ht=instagram.fvlc1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=gNSXRBqVZkUAX_1RPYV&oh=93b619edcf1447e9f930e5a1c5c8d1ba&oe=5F717A25' alt='Instagram photo' />
-</a>
-<a href='https://www.instagram.com/p/CD1JV9uiTU9/' target='_blank'>
-  <img width='20%' src='https://instagram.fvlc1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/117612999_172102821103648_5451303179949548800_n.jpg?_nc_ht=instagram.fvlc1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=l2wFfl-SiR4AX9-zjC7&oh=4734012ce81173a71bbda4a3c829bfbc&oe=5F71791A' alt='Instagram photo' />
-</a>
+%{{latest_instagram}}%
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
-- [Mi actual setup](https://pablosirera.com/blog/my-setup)
-- [Crear una aplicación Vue desde cero](https://pablosirera.com/blog/create-vue-app)
-- [Desconectar para volver a conectar](https://pablosirera.com/blog/disconnect)
+- [Mi setup como desarrollador web](https://pablosirera.com/blog/mi-setup-como-desarrollador-web)
+- [Crear una aplicación Vue desde cero](https://pablosirera.com/blog/crear-aplicacion-vue-desde-cero)
+- [Desconectar para volver a conectar](https://pablosirera.com/blog/desconectar-para-volver-a-conectar)
