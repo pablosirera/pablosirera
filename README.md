@@ -45,14 +45,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/gSlsUKr7ILg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gSlsUKr7ILg/mqdefault.jpg' alt='Instalar y configurar FIREBASE con nuxt | Curso Nuxtjs #06' />
+</a>
 <a href='https://youtu.be/o-b6zCdy_Qs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/o-b6zCdy_Qs/mqdefault.jpg' alt='Crear login page nuxt | Curso Nuxtjs #05' />
 </a>
 <a href='https://youtu.be/dOxMoQqYR8w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/dOxMoQqYR8w/mqdefault.jpg' alt='Crear componentes base con Nuxt y Vue | Curso Nuxtjs #04' />
-</a>
-<a href='https://youtu.be/4rfExjI-H9U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4rfExjI-H9U/mqdefault.jpg' alt='Crear DARK 🌚 MODE con NUXT y TAILWIND | Curso de Nuxtjs #03' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
