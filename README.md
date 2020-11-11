@@ -56,6 +56,6 @@
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
-- [Mi setup como desarrollador web](https://pablosirera.com/blog/mi-setup-como-desarrollador-web)
-- [Crear una aplicación Vue desde cero](https://pablosirera.com/blog/crear-aplicacion-vue-desde-cero)
+- [El mejor setup como desarrollador web](https://pablosirera.com/blog/el-mejor-setup-como-desarrollador-web)
+- [Curso sobre cómo crear una aplicación vue desde cero](https://pablosirera.com/blog/curso-sobre-como-crear-una-aplicacion-vue-desde-cero)
 - [Desconectar para volver a conectar](https://pablosirera.com/blog/desconectar-para-volver-a-conectar)
