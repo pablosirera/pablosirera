@@ -46,7 +46,7 @@
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
 <a href='https://youtu.be/lLN1DC6iOXw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lLN1DC6iOXw/mqdefault.jpg' alt='Login con google usando firebase y nuxt | Curso Nuxt #07' />
+  <img width='30%' src='https://img.youtube.com/vi/lLN1DC6iOXw/mqdefault.jpg' alt='Auth con google usando firebase y nuxt | Curso Nuxt #07' />
 </a>
 <a href='https://youtu.be/gSlsUKr7ILg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gSlsUKr7ILg/mqdefault.jpg' alt='Instalar y configurar FIREBASE con nuxt | Curso Nuxtjs #06' />
