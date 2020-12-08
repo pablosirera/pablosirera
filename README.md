@@ -45,14 +45,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/CvVeBlNrhqU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/CvVeBlNrhqU/mqdefault.jpg' alt='Presentación nueva sección 🎊🎉  | Los Juernes con Pablo' />
+</a>
 <a href='https://youtu.be/jEcJalby4Sk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEcJalby4Sk/mqdefault.jpg' alt='Crear y organizar componentes de storybook con NUXT y  VUE | Curso Nuxt #09' />
 </a>
 <a href='https://youtu.be/J-5_Kp0GMQo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/J-5_Kp0GMQo/mqdefault.jpg' alt='Mejorar SEO y performance 🚀 de un blog con Nuxtjs' />
-</a>
-<a href='https://youtu.be/fAaco7FbYZA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fAaco7FbYZA/mqdefault.jpg' alt='Testing con Jest, Vue y Nuxtjs | Fallando en el intento 🤦‍♂️| Curso Nuxt #08' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
