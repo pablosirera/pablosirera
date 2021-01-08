@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/fII3ScRM8cw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/fII3ScRM8cw/mqdefault.jpg' alt='Registro con NUXT y FIREBASE | Curso Nuxt #10' />
+</a>
 <a href='https://youtu.be/fgyOsZLqUPk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/fgyOsZLqUPk/mqdefault.jpg' alt='Revisando vuestros portfolios 💼 web en 2020 | #1' />
 </a>
 <a href='https://youtu.be/nHiXSuxHqpI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nHiXSuxHqpI/mqdefault.jpg' alt='Ana Amaro "cuídate y haz aquello que te motive y te haga feliz" | Los Juernes con Pablo #1' />
-</a>
-<a href='https://youtu.be/CvVeBlNrhqU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CvVeBlNrhqU/mqdefault.jpg' alt='Presentación nueva sección 🎊🎉  | Los Juernes con Pablo' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
