@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/AyAhvHLO3YU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AyAhvHLO3YU/mqdefault.jpg' alt='Crear pantalla de perfil de usuario | Curso NuxtJS #12' />
+</a>
 <a href='https://youtu.be/TiDP0dejA-c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TiDP0dejA-c/mqdefault.jpg' alt='Guardar datos del usuario desde FIREBASE en VUEX | Curso NuxtJS #11' />
 </a>
 <a href='https://youtu.be/TC1a997qoEQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TC1a997qoEQ/mqdefault.jpg' alt='Entrevista Marina Aisa | Los Juernes con Pablo #2' />
-</a>
-<a href='https://youtu.be/fII3ScRM8cw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/fII3ScRM8cw/mqdefault.jpg' alt='Registro con NUXT y FIREBASE | Curso Nuxt #10' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
