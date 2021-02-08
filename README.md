@@ -41,6 +41,6 @@
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
+- [Crear iconos SVG como componentes de Vue](https://pablosirera.com/blog/crear-iconos-svg-como-componentes-vue)
 - [El mejor setup como desarrollador web](https://pablosirera.com/blog/el-mejor-setup-como-desarrollador-web)
 - [Curso sobre cómo crear una aplicación vue desde cero](https://pablosirera.com/blog/curso-sobre-como-crear-una-aplicacion-vue-desde-cero)
-- [Desconectar para volver a conectar](https://pablosirera.com/blog/desconectar-para-volver-a-conectar)
