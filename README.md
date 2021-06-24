@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
-<a href='https://youtu.be/rOP5JTtmttc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rOP5JTtmttc/mqdefault.jpg' alt='Revisando vuestros portfolios 💼  web | #2' />
+<a href='https://youtu.be/b7SHm6ih5Yo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/b7SHm6ih5Yo/mqdefault.jpg' alt='Introducción a NOTION 📓  API con VUE 3 | Probamos la API tan esperada 🤩' />
 </a>
-<a href='https://youtu.be/AyAhvHLO3YU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AyAhvHLO3YU/mqdefault.jpg' alt='Crear pantalla de perfil de usuario | Curso NuxtJS #12' />
+<a href='https://youtu.be/XKKuZhxPsd4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XKKuZhxPsd4/mqdefault.jpg' alt='Primeros pasos con CHAKRA ⚡️ UI + VUE 💚  | Usando componentes Vue con accesibilidad ♿️' />
 </a>
-<a href='https://youtu.be/TiDP0dejA-c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TiDP0dejA-c/mqdefault.jpg' alt='Guardar datos del usuario desde FIREBASE en VUEX | Curso NuxtJS #11' />
+<a href='https://youtu.be/jQOmJKu0atw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jQOmJKu0atw/mqdefault.jpg' alt='Probando Twitch API con Vue 3 y  Netlify Functions #1' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
