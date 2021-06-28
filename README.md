@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/9mzIbz2nfiY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9mzIbz2nfiY/mqdefault.jpg' alt='Componentes dinámicos con Vuejs | Añadimos redes sociales al perfil de usuario | Curso Nuxtjs #13' />
+</a>
 <a href='https://youtu.be/b7SHm6ih5Yo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/b7SHm6ih5Yo/mqdefault.jpg' alt='Introducción a NOTION 📓  API con VUE 3 | Probamos la API tan esperada 🤩' />
 </a>
 <a href='https://youtu.be/XKKuZhxPsd4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XKKuZhxPsd4/mqdefault.jpg' alt='Primeros pasos con CHAKRA ⚡️ UI + VUE 💚  | Usando componentes Vue con accesibilidad ♿️' />
-</a>
-<a href='https://youtu.be/jQOmJKu0atw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jQOmJKu0atw/mqdefault.jpg' alt='Probando Twitch API con Vue 3 y  Netlify Functions #1' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
