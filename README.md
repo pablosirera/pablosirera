@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/bJ-Y3mYZK1g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bJ-Y3mYZK1g/mqdefault.jpg' alt='Adaptando aplicación web para usar con cualquier API | App recetas 🤌 Vue 3 + Notion API | Parte 2' />
+</a>
 <a href='https://youtu.be/_gMRm0cnNfo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_gMRm0cnNfo/mqdefault.jpg' alt='Creando una aplicación de recetas 🥞  con Vue 3 + Notion API | Parte 1' />
 </a>
 <a href='https://youtu.be/9mzIbz2nfiY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9mzIbz2nfiY/mqdefault.jpg' alt='Componentes dinámicos con Vuejs | Añadimos redes sociales al perfil de usuario | Curso Nuxtjs #13' />
-</a>
-<a href='https://youtu.be/b7SHm6ih5Yo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/b7SHm6ih5Yo/mqdefault.jpg' alt='Introducción a NOTION 📓  API con VUE 3 | Probamos la API tan esperada 🤩' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
