@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/T4d9SXtBxB8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/T4d9SXtBxB8/mqdefault.jpg' alt='Desarrollador diseñando portfolio en FIGMA' />
+</a>
 <a href='https://youtu.be/ZT6lgYFJDg4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZT6lgYFJDg4/mqdefault.jpg' alt='QUÉ es y CÓMO participar en Hacktoberfest' />
 </a>
 <a href='https://youtu.be/L-2VOiMJ-KI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/L-2VOiMJ-KI/mqdefault.jpg' alt='Creando lógica detalle de una página Notion API + Vue 3 | App de recetas #4' />
-</a>
-<a href='https://youtu.be/5ehxK0PxCDk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5ehxK0PxCDk/mqdefault.jpg' alt='Migrando Componentes Vue a COMPOSITION API' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
