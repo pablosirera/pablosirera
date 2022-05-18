@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/UOUOAFztfTc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/UOUOAFztfTc/mqdefault.jpg' alt='Trabajando con música lofi y un reviewer 🤣🐱 #short' />
+</a>
 <a href='https://youtu.be/km4g6ADzLaI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/km4g6ADzLaI/mqdefault.jpg' alt='Diseñando 👨‍🎨 portfolio en figma paso a paso' />
 </a>
 <a href='https://youtu.be/vjQbareXrzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vjQbareXrzQ/mqdefault.jpg' alt='La decisión sobre mi futuro en Twitch.' />
-</a>
-<a href='https://youtu.be/MHkcyO4s-4g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MHkcyO4s-4g/mqdefault.jpg' alt='¿Es mejor aprender JavaScript antes que un framework? #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
