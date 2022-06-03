@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/Jhx2Yv23AQA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Jhx2Yv23AQA/mqdefault.jpg' alt='Como cambiar automáticamente 🪄 entre temas de vscode' />
+</a>
 <a href='https://youtu.be/Hw-K0CGW7wY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Hw-K0CGW7wY/mqdefault.jpg' alt='👌Diseñando portfolio con Figma 👌 #shorts' />
 </a>
 <a href='https://youtu.be/UOUOAFztfTc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UOUOAFztfTc/mqdefault.jpg' alt='Trabajando con música lofi y un reviewer 🤣🐱 #shorts' />
-</a>
-<a href='https://youtu.be/km4g6ADzLaI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/km4g6ADzLaI/mqdefault.jpg' alt='Diseñando 👨‍🎨 portfolio en figma paso a paso' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
