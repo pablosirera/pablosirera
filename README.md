@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/ou207Khy5q8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/ou207Khy5q8/mqdefault.jpg' alt='Una IA para resolver problemas con Javascript 😱 #shorts' />
+</a>
 <a href='https://youtu.be/ckEwsIPeXbo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ckEwsIPeXbo/mqdefault.jpg' alt='Cuando llevas varios días con el mismo bug 🐛 #shorts' />
 </a>
 <a href='https://youtu.be/DlgIu470CCE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DlgIu470CCE/mqdefault.jpg' alt='⚡️Cómo ser más productivos⚡️ #shorts' />
-</a>
-<a href='https://youtu.be/Jhx2Yv23AQA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Jhx2Yv23AQA/mqdefault.jpg' alt='Como cambiar automáticamente 🪄 entre temas de vscode' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
