@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/7d2tzNuTclY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7d2tzNuTclY/mqdefault.jpg' alt='Como tener un color picker en una línea de código 😱 #shorts' />
+</a>
 <a href='https://youtu.be/XLPaOcchpDQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XLPaOcchpDQ/mqdefault.jpg' alt='Empezando los cambios en mi setup 😇 #shorts' />
 </a>
 <a href='https://youtu.be/sziTzzef-s8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sziTzzef-s8/mqdefault.jpg' alt='¿Odias o amas programar 🤔? #shorts' />
-</a>
-<a href='https://youtu.be/9fjNShgqr5w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9fjNShgqr5w/mqdefault.jpg' alt='El mayor evento del Open Source #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
