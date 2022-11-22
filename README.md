@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/5BHN7jEvQeI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5BHN7jEvQeI/mqdefault.jpg' alt='5 extensiones favoritas de VSCode 🤩 #shorts' />
+</a>
 <a href='https://youtu.be/ZVwFOCs1-tM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZVwFOCs1-tM/mqdefault.jpg' alt='Cómo aceptar invitaciones de LinkedIn automáticamente 😏 #shorts' />
 </a>
 <a href='https://youtu.be/WVQ55En731Y' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WVQ55En731Y/mqdefault.jpg' alt='Unboxing nuevo MacBook Pro 16" 💻 #shorts' />
-</a>
-<a href='https://youtu.be/k_Y5i5Mb5AY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/k_Y5i5Mb5AY/mqdefault.jpg' alt='Me he comprado el Logitech Pop Keys 🤩🤩 #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
