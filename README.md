@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
-<a href='https://youtu.be/PYxwUVV-SB8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/PYxwUVV-SB8/mqdefault.jpg' alt='Pasos para aprender Vuejs #shorts' />
+<a href='https://youtu.be/pAdywtcCaR8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/pAdywtcCaR8/mqdefault.jpg' alt='Cómo escribir código semántico con HTML5 😜' />
 </a>
-<a href='https://youtu.be/5BHN7jEvQeI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/5BHN7jEvQeI/mqdefault.jpg' alt='5 extensiones favoritas de VSCode 🤩 #shorts' />
+<a href='https://youtu.be/uuOn19itA7I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uuOn19itA7I/mqdefault.jpg' alt='Como gestionar versiones de Nodejs con NVM' />
 </a>
-<a href='https://youtu.be/ZVwFOCs1-tM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZVwFOCs1-tM/mqdefault.jpg' alt='Cómo aceptar invitaciones de LinkedIn automáticamente 😏 #shorts' />
+<a href='https://youtu.be/RUQSfkEg_iY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RUQSfkEg_iY/mqdefault.jpg' alt='Mis temas favoritos para Visual Studio Code' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
