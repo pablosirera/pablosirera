@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 my name is Pablo Sirera</h1>
 
-<h3 align="center">I'm a Senior Frontend Developer. I'm currently focused on the world of web development with Vue, Nuxt, JavaScript and Jest, among others, but I have also made projects with Ionic, Angular, React, TypeScript.</h3>
+<h3 align="center">I'm a Senior Frontend Developer. I'm currently focused on the world of web development with Vue, Nuxt, JavaScript, Vite and Jest, among others, but I have also made projects with Ionic, Angular, React, TypeScript.</h3>
 
 <p align="center">
    <a href="https://youtube.com/pablosirera" target="blank" style='margin-right:4px'>
@@ -17,28 +17,19 @@
   </a>
 </p>
 
-- 🤓 I’m teaching in [Twitch](https://twitch.tv/pablosirera) (also in Youtube) or writing articles on [my blog](https://pablosirera.com/blog)
+- 🤓 I’m teaching in [Youtube](https://youtube.com/pablosirera) (also in [Twitch](https://twitch.tv/pablosirera)) and writing articles on [my blog](https://pablosirera.com/blog)
 
-- 📸 I'm sharing beautiful photos on my [instagram](https://instagram.com/pablodeveloper)
+- 📸 I'm sharing beautiful photos and interesting reels on my [instagram](https://instagram.com/pablodeveloper)
 
 - 👨‍💻 All of my open source projects are available at [my website](https://pablosirera.com/projects) or on my [github](https://github.com/pablosirera)
 
 - 💬 Ask me about **Javascript, Vue, Nuxt, Firebase and anything about web development**
 
-- 📫 How to reach me **psirera4@gmail.com** and **[twitter](https://twitter.com/pablosirera)**
+- 📫 How to reach me **pablosmdev@gmail.com** and **[twitter](https://twitter.com/pablosirera)**
 
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
-
-<a href='https://youtu.be/pAdywtcCaR8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/pAdywtcCaR8/mqdefault.jpg' alt='Cómo escribir código semántico con HTML5 😜' />
-</a>
-<a href='https://youtu.be/uuOn19itA7I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uuOn19itA7I/mqdefault.jpg' alt='Como gestionar versiones de Nodejs con NVM' />
-</a>
-<a href='https://youtu.be/RUQSfkEg_iY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RUQSfkEg_iY/mqdefault.jpg' alt='Mis temas favoritos para Visual Studio Code' />
-</a>
+undefined
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 - [Crear iconos SVG como componentes de Vue](https://pablosirera.com/blog/crear-iconos-svg-como-componentes-vue)
