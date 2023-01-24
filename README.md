@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/Tyx8t5IuHYM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Tyx8t5IuHYM/mqdefault.jpg' alt='Unboxing nuevo dron 😍 #shorts' />
+</a>
 <a href='https://youtu.be/Nle4AQPQUwU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Nle4AQPQUwU/mqdefault.jpg' alt='Cómo configurar i18n + Vue3 + Vite' />
 </a>
 <a href='https://youtu.be/pAdywtcCaR8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pAdywtcCaR8/mqdefault.jpg' alt='Cómo escribir código semántico con HTML5 😜' />
-</a>
-<a href='https://youtu.be/uuOn19itA7I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uuOn19itA7I/mqdefault.jpg' alt='Como gestionar versiones de Nodejs con NVM' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
