@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/xWKlMhYng5o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xWKlMhYng5o/mqdefault.jpg' alt='Lunes como programador #shorts' />
+</a>
 <a href='https://youtu.be/4JhPoCENmGw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4JhPoCENmGw/mqdefault.jpg' alt='¿Cómo programar usando tu iPad? | Github codespaces' />
 </a>
 <a href='https://youtu.be/s4d20BlIHeg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/s4d20BlIHeg/mqdefault.jpg' alt='Día vs noche 🥊 en mi setup #shorts' />
-</a>
-<a href='https://youtu.be/sVWkY5_o4Us' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/sVWkY5_o4Us/mqdefault.jpg' alt='Probando nuevos editores de código | Lapce - Fleet | ¿Adiós VSCode 🤔?' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
