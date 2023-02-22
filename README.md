@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/uG5k6jP74JA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uG5k6jP74JA/mqdefault.jpg' alt='Comprando gadgets en AliExpress #shorts' />
+</a>
 <a href='https://youtu.be/hWGgalXZ3TA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/hWGgalXZ3TA/mqdefault.jpg' alt='Crear la primera release | Conventional Commit - Semantic Version' />
 </a>
 <a href='https://youtu.be/QOiXcCqcN3o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/QOiXcCqcN3o/mqdefault.jpg' alt='Programando una aplicación web con ChatGPT' />
-</a>
-<a href='https://youtu.be/xWKlMhYng5o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xWKlMhYng5o/mqdefault.jpg' alt='Lunes como programador #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
