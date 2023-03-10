@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/tpYJMpiUJrs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tpYJMpiUJrs/mqdefault.jpg' alt='Qué llevo en mi mochila 🎒 tech (2023)' />
+</a>
 <a href='https://youtu.be/krhfUk6r6Dk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/krhfUk6r6Dk/mqdefault.jpg' alt='Como uso el Stream Deck como programador y creador de contenido' />
 </a>
 <a href='https://youtu.be/T1QYkNC09vw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/T1QYkNC09vw/mqdefault.jpg' alt='Convierte un dibujo a imagen #shorts' />
-</a>
-<a href='https://youtu.be/uG5k6jP74JA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uG5k6jP74JA/mqdefault.jpg' alt='Comprando gadgets en AliExpress #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
