@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/SKlX1G0WlJc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SKlX1G0WlJc/mqdefault.jpg' alt='Razones para dejar de programar #shorts' />
+</a>
 <a href='https://youtu.be/cc5V0rxvwCg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cc5V0rxvwCg/mqdefault.jpg' alt='JavaScript vs Typescript 🥊 #shorts' />
 </a>
 <a href='https://youtu.be/tpYJMpiUJrs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tpYJMpiUJrs/mqdefault.jpg' alt='Qué llevo en mi mochila 🎒 tech (2023)' />
-</a>
-<a href='https://youtu.be/krhfUk6r6Dk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/krhfUk6r6Dk/mqdefault.jpg' alt='Como uso el Stream Deck como programador y creador de contenido' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
