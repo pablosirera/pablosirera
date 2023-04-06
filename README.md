@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/iSiRoW2Yq_g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iSiRoW2Yq_g/mqdefault.jpg' alt='Cheatsheets infinitos y gratis 🤯 #shorts' />
+</a>
 <a href='https://youtu.be/pl86OnrBoCQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/pl86OnrBoCQ/mqdefault.jpg' alt='Montando mi standing desk #shorts' />
 </a>
 <a href='https://youtu.be/SKlX1G0WlJc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SKlX1G0WlJc/mqdefault.jpg' alt='Razones para dejar de programar #shorts' />
-</a>
-<a href='https://youtu.be/cc5V0rxvwCg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/cc5V0rxvwCg/mqdefault.jpg' alt='JavaScript vs Typescript 🥊 #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
