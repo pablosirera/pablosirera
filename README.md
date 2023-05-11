@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/1dLQ-of0gEg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1dLQ-of0gEg/mqdefault.jpg' alt='¿Cómo me concentro para programar? #shorts' />
+</a>
 <a href='https://youtu.be/2pBPUTdefmw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2pBPUTdefmw/mqdefault.jpg' alt='¿Conoces Pull Request Template 😇? #shorts' />
 </a>
 <a href='https://youtu.be/eKL5GS-AQks' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eKL5GS-AQks/mqdefault.jpg' alt='Volviendo al trabajo #shorts' />
-</a>
-<a href='https://youtu.be/iSiRoW2Yq_g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iSiRoW2Yq_g/mqdefault.jpg' alt='Cheatsheets infinitos y gratis 🤯 #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
