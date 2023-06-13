@@ -30,14 +30,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/7xhkLaXUUDg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7xhkLaXUUDg/mqdefault.jpg' alt='3 usos que yo le doy a @Notion #shorts' />
+</a>
 <a href='https://youtu.be/i9mprnn70n4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/i9mprnn70n4/mqdefault.jpg' alt='My desk setup items pt.1 #shorts' />
 </a>
 <a href='https://youtu.be/RBbPI--OVPo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RBbPI--OVPo/mqdefault.jpg' alt='Un viernes distinto 🤩 #shorts' />
-</a>
-<a href='https://youtu.be/Byk3SpXPoKs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Byk3SpXPoKs/mqdefault.jpg' alt='Nueva versión Vuejs 3.3 #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
