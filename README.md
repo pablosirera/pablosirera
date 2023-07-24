@@ -3,17 +3,17 @@
 <h3 align="center">I'm a Senior Frontend Developer. I'm currently focused on the world of web development with Vue, Nuxt, JavaScript, Vite and Jest, among others, but I have also made projects with Ionic, Angular, React, TypeScript.</h3>
 
 <p align="center">
-   <a href="https://youtube.com/pablosirera" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pablosirera" height="28px" width="28px" />
+   <a href="https://youtube.com/pablosirera" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pablosirera youtube" height="28" width="28" />
   </a>
   <a href="https://twitter.com/pablosirera" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pablosirera" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pablosirera twitter" height="28" width="28" />
   </a>
   <a href="https://instagram.com/pablodeveloper" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablodeveloper" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pablodeveloper instagram" height="28" width="28" />
   </a>
   <a href="https://linkedin.com/in/pablosireramata" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablosireramata" height="28" width="28" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pablosireramata linkedin" height="28" width="28" />
   </a>
   <a href="https://discord.gg/sqrzBFPMqS" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="pablosirera discord" height="28" width="28" />
@@ -32,7 +32,16 @@
 
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
-undefined
+
+<a href='https://youtu.be/4taHIt8siTk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4taHIt8siTk/mqdefault.jpg' alt='Mini vlog - 1 día como desarrollador web - 17 julio #shorts' />
+</a>
+<a href='https://youtu.be/WAKVaZEqD6U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/WAKVaZEqD6U/mqdefault.jpg' alt='Mis top 3 newsletters tech #shorts' />
+</a>
+<a href='https://youtu.be/REZ2eJ6sbcg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/REZ2eJ6sbcg/mqdefault.jpg' alt='Unboxing nuevo monitor ultrawide #shorts' />
+</a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 - [Crear iconos SVG como componentes de Vue](https://pablosirera.com/blog/crear-iconos-svg-como-componentes-vue)
