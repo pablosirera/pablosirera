@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/Jgh2ZNNrY0Q' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Jgh2ZNNrY0Q/mqdefault.jpg' alt='Llega el fin de semana y eres programador #shorts' />
+</a>
 <a href='https://youtu.be/jkHyNvm6e4c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jkHyNvm6e4c/mqdefault.jpg' alt='Convierte una web en un figma editable 🤯 #shorts' />
 </a>
 <a href='https://youtu.be/2RyqJK5JfjQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2RyqJK5JfjQ/mqdefault.jpg' alt='Los recursos web que uso y recomiendo #shorts' />
-</a>
-<a href='https://youtu.be/BotiqWKr89M' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BotiqWKr89M/mqdefault.jpg' alt='Cursos GRATIS Notion #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
