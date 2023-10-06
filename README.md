@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
 
+<a href='https://youtu.be/98KTC56DP9k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/98KTC56DP9k/mqdefault.jpg' alt='Ejercicios de JavaScript #shorts' />
+</a>
 <a href='https://youtu.be/Q0N2VooDFms' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Q0N2VooDFms/mqdefault.jpg' alt='Nuxt Studio en beta #shorts' />
 </a>
 <a href='https://youtu.be/NbZtJ9zBHQc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NbZtJ9zBHQc/mqdefault.jpg' alt='Efecto hover para títulos #shorts' />
-</a>
-<a href='https://youtu.be/Bn7upDdbIaY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Bn7upDdbIaY/mqdefault.jpg' alt='¿Soy buen frontend 😅? #shorts' />
 </a>
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
