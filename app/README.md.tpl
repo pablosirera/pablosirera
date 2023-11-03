@@ -31,8 +31,11 @@
 - 📫 How to reach me **pablosmdev@gmail.com** and **[twitter](https://twitter.com/pablosirera)**
 
 
-#### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
+#### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 %{{latest_youtube}}%
+
+#### 📹 Latest videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
+%{{latest_live_youtube}}%
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 %{{latest_articles}}%

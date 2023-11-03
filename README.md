@@ -31,19 +31,13 @@
 - 📫 How to reach me **pablosmdev@gmail.com** and **[twitter](https://twitter.com/pablosirera)**
 
 
-#### 📹 Latest videos on [my Youtube Channel](https://youtube.com/psirera4):
+#### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
+undefined
 
-<a href='https://youtu.be/efke0opAs44' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/efke0opAs44/mqdefault.jpg' alt='3 herramientas con IA que uso a diario #short' />
-</a>
-<a href='https://youtu.be/eYebrpivN0c' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eYebrpivN0c/mqdefault.jpg' alt='Una mañana siendo dev y creador contenido #shorts' />
-</a>
-<a href='https://youtu.be/tWaGXZC7z50' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tWaGXZC7z50/mqdefault.jpg' alt='Newsletters 📢 de programación y desarrollo web para mantenerse actualizado' />
-</a>
+#### 📹 Latest videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
+undefined
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
+- [Mantenerse al día en programación y desarrollo web a través de newsletters](https://pablosirera.com/blog/mantenerse-actualizado-en-programacion-y-desarrollo-web-con-newsletters)
 - [Crear iconos SVG como componentes de Vue](https://pablosirera.com/blog/crear-iconos-svg-como-componentes-vue)
 - [El mejor setup como desarrollador web](https://pablosirera.com/blog/el-mejor-setup-como-desarrollador-web)
-- [Curso sobre cómo crear una aplicación vue desde cero](https://pablosirera.com/blog/curso-sobre-como-crear-una-aplicacion-vue-desde-cero)

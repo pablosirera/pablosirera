@@ -30,9 +30,9 @@ const getLatestArticlesFromBlog = () =>
 //   }));
 // };
 
-const getLatestYoutubeVideos = () =>
+const getLatestYoutubeVideos = id =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=UUl41m8HBifhzM6Dh1V04wqA&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${id}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items);
@@ -49,10 +49,11 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 
 (async () => {
   // const [template, articles, videos, photos] = await Promise.all([
-  const [template, articles, videos] = await Promise.all([
+  const [template, articles, videos, videosLive] = await Promise.all([
     fs.readFile('./app/README.md.tpl', { encoding: 'utf-8' }),
     getLatestArticlesFromBlog(),
-    getLatestYoutubeVideos(),
+    getLatestYoutubeVideos('UUl41m8HBifhzM6Dh1V04wqA'),
+    getLatestYoutubeVideos('UCwiPM-YnxouqHdYtPVtfS0Q'),
     // getPhotosFromInstagram(),
   ]);
 
@@ -63,10 +64,20 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     .join('\n');
 
   // create latest youtube videos channel
-  let latestYoutubeVideos;
+  let latestYoutubeVideos, latestYoutubeLiveVideos;
 
   if (videos) {
     latestYoutubeVideos = videos
+      .map(({ snippet }) => {
+        const { title, resourceId } = snippet;
+        const { videoId } = resourceId;
+        return generateYoutubeHTML({ videoId, title });
+      })
+      .join('');
+  }
+
+  if (videosLive) {
+    latestYoutubeLiveVideos = videosLive
       .map(({ snippet }) => {
         const { title, resourceId } = snippet;
         const { videoId } = resourceId;
@@ -84,7 +95,8 @@ const generateYoutubeHTML = ({ title, videoId }) => `
   // replace all placeholders with info
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_ARTICLES, latestArticlesMarkdown)
-    .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos);
+    .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
+    .replace(PLACEHOLDERS.LATEST_LIVE_YOUTUBE, latestYoutubeLiveVideos);
     // .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos);
 
   await fs.writeFile('README.md', newMarkdown);
