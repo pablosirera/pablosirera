@@ -34,8 +34,7 @@
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 undefined
 
-#### 📹 Latest videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
-undefined
+📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 - [Mantenerse al día en programación y desarrollo web a través de newsletters](https://pablosirera.com/blog/mantenerse-actualizado-en-programacion-y-desarrollo-web-con-newsletters)

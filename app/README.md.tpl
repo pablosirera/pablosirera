@@ -34,8 +34,7 @@
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 %{{latest_youtube}}%
 
-#### 📹 Latest videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
-%{{latest_live_youtube}}%
+📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
 
 #### 📝 Latest articles I wrote on [pablosirera.com](https://pablosirera.com):
 %{{latest_articles}}%

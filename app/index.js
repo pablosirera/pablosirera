@@ -7,6 +7,7 @@ import { PLACEHOLDERS, NUMBER_OF } from './constants.js';
 const parser = new Parser();
 
 const { YOUTUBE_API_KEY } = process.env;
+
 // const INSTAGRAM_REGEXP = new RegExp(
 //   /<script type="text\/javascript">window\._sharedData = (.*);<\/script>/
 // );
@@ -49,11 +50,10 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 
 (async () => {
   // const [template, articles, videos, photos] = await Promise.all([
-  const [template, articles, videos, videosLive] = await Promise.all([
+  const [template, articles, videos] = await Promise.all([
     fs.readFile('./app/README.md.tpl', { encoding: 'utf-8' }),
     getLatestArticlesFromBlog(),
     getLatestYoutubeVideos('UUl41m8HBifhzM6Dh1V04wqA'),
-    getLatestYoutubeVideos('UCwiPM-YnxouqHdYtPVtfS0Q'),
     // getPhotosFromInstagram(),
   ]);
 
@@ -64,20 +64,10 @@ const generateYoutubeHTML = ({ title, videoId }) => `
     .join('\n');
 
   // create latest youtube videos channel
-  let latestYoutubeVideos, latestYoutubeLiveVideos;
+  let latestYoutubeVideos;
 
   if (videos) {
     latestYoutubeVideos = videos
-      .map(({ snippet }) => {
-        const { title, resourceId } = snippet;
-        const { videoId } = resourceId;
-        return generateYoutubeHTML({ videoId, title });
-      })
-      .join('');
-  }
-
-  if (videosLive) {
-    latestYoutubeLiveVideos = videosLive
       .map(({ snippet }) => {
         const { title, resourceId } = snippet;
         const { videoId } = resourceId;
@@ -96,7 +86,6 @@ const generateYoutubeHTML = ({ title, videoId }) => `
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_ARTICLES, latestArticlesMarkdown)
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
-    .replace(PLACEHOLDERS.LATEST_LIVE_YOUTUBE, latestYoutubeLiveVideos);
     // .replace(PLACEHOLDERS.LATEST_INSTAGRAM, latestInstagramPhotos);
 
   await fs.writeFile('README.md', newMarkdown);
