@@ -32,7 +32,16 @@
 
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
-undefined
+
+<a href='https://youtu.be/efke0opAs44' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/efke0opAs44/mqdefault.jpg' alt='3 herramientas con IA que uso a diario #short' />
+</a>
+<a href='https://youtu.be/eYebrpivN0c' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eYebrpivN0c/mqdefault.jpg' alt='Una mañana siendo dev y creador contenido #shorts' />
+</a>
+<a href='https://youtu.be/tWaGXZC7z50' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tWaGXZC7z50/mqdefault.jpg' alt='Newsletters 📢 de programación y desarrollo web para mantenerse actualizado' />
+</a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
 
