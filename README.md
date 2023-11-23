@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/TA0yJYohbyg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TA0yJYohbyg/mqdefault.jpg' alt='Mis 3 temas preferidos 🫶 de Visual Studio Code #shorts' />
+</a>
 <a href='https://youtu.be/4063rj0B_ag' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4063rj0B_ag/mqdefault.jpg' alt='Mejores recursos para aprender CSS 🎨💡 #shorts' />
 </a>
 <a href='https://youtu.be/k8Ero-CB0ZM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/k8Ero-CB0ZM/mqdefault.jpg' alt='Consejos 🌟 para empezar a programar #shorts' />
-</a>
-<a href='https://youtu.be/rjWBLcG7F6w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rjWBLcG7F6w/mqdefault.jpg' alt='3 ideas 💡 de proyectos #shorts' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
