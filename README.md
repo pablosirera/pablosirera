@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/nEIN1Z65JQk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nEIN1Z65JQk/mqdefault.jpg' alt='Retos diarios 📝 de programación para frontends #shorts' />
+</a>
 <a href='https://youtu.be/L0BrxaFA8oU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/L0BrxaFA8oU/mqdefault.jpg' alt='My desk 🖥️ setup parte 3' />
 </a>
 <a href='https://youtu.be/TA0yJYohbyg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TA0yJYohbyg/mqdefault.jpg' alt='Mis 3 temas preferidos 🫶 de Visual Studio Code #shorts' />
-</a>
-<a href='https://youtu.be/4063rj0B_ag' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4063rj0B_ag/mqdefault.jpg' alt='Mejores recursos para aprender CSS 🎨💡 #shorts' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
