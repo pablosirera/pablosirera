@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/6K8L_oLneZE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6K8L_oLneZE/mqdefault.jpg' alt='Resumen del 2023 🫶🥳' />
+</a>
 <a href='https://youtu.be/7pTzESI7FUY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7pTzESI7FUY/mqdefault.jpg' alt='Hola Mundo en 7 lenguajes de programación' />
 </a>
 <a href='https://youtu.be/xCiKAnAb_ew' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xCiKAnAb_ew/mqdefault.jpg' alt='Busca alternativas 🆓 para cualquier aplicación' />
-</a>
-<a href='https://youtu.be/lXgt9w6_RiE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lXgt9w6_RiE/mqdefault.jpg' alt='Tetris en Visual Studio Code 🙌' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
