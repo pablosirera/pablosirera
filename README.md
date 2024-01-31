@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/7uE09wR6iq8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7uE09wR6iq8/mqdefault.jpg' alt='Crea tu CV fácil y rápido 🚀' />
+</a>
 <a href='https://youtu.be/bCTWYCSalNI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/bCTWYCSalNI/mqdefault.jpg' alt='Simplifica tu código de JavaScript 🟡' />
 </a>
 <a href='https://youtu.be/CAUejR2iGHo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CAUejR2iGHo/mqdefault.jpg' alt='Guía al usuario por tu web 🚘' />
-</a>
-<a href='https://youtu.be/HOPxWH4sS5E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HOPxWH4sS5E/mqdefault.jpg' alt='Templates gratis con Nuxt 🚀 #shorts' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
