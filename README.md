@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/OMpW27D8AJk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OMpW27D8AJk/mqdefault.jpg' alt='Te cuento quién soy y qué hago  🙌' />
+</a>
 <a href='https://youtu.be/lCL2PgJ-WvE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lCL2PgJ-WvE/mqdefault.jpg' alt='4 herramientas dev que amo' />
 </a>
 <a href='https://youtu.be/S4zx-NVOYC4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/S4zx-NVOYC4/mqdefault.jpg' alt='Morning ritual ☕️👨‍💻' />
-</a>
-<a href='https://youtu.be/28C-fyfY5yE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/28C-fyfY5yE/mqdefault.jpg' alt='Plantillas gratis de HTML 💸' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
