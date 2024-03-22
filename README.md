@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/Ot507DL8xI8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Ot507DL8xI8/mqdefault.jpg' alt='Roadmap para ser frontend' />
+</a>
 <a href='https://youtu.be/isb3cphyq-U' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/isb3cphyq-U/mqdefault.jpg' alt='Lo que siento al ponerme a programar ✌️' />
 </a>
 <a href='https://youtu.be/kkFIp--hpSY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/kkFIp--hpSY/mqdefault.jpg' alt='APIs gratuitas 💸 para tu próximo proyecto' />
-</a>
-<a href='https://youtu.be/UasW11opA_A' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/UasW11opA_A/mqdefault.jpg' alt='👨‍💻 Coding day 28 feb' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
