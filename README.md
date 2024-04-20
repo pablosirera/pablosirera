@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/8TcmxpiVG_M' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8TcmxpiVG_M/mqdefault.jpg' alt='3 herramientas para capturar codigo' />
+</a>
 <a href='https://youtu.be/FZWZZ3Gj5Cw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FZWZZ3Gj5Cw/mqdefault.jpg' alt='¿Merge sin aprobados?' />
 </a>
 <a href='https://youtu.be/DK8qevLS_to' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DK8qevLS_to/mqdefault.jpg' alt='Descarga imágenes de personas que NO existen 😮 para tu web' />
-</a>
-<a href='https://youtu.be/3_51QDMjMXo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/3_51QDMjMXo/mqdefault.jpg' alt='Mis recursos favoritos 😍⭐️' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
