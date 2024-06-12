@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/1oNhfr8OFzs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/1oNhfr8OFzs/mqdefault.jpg' alt='Code with me 💻✨ - 11/06/2024' />
+</a>
 <a href='https://youtu.be/jgyQP9qxGGs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jgyQP9qxGGs/mqdefault.jpg' alt='"No puedo, tengo planes" ✨' />
 </a>
 <a href='https://youtu.be/vfKyXvaLwzU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vfKyXvaLwzU/mqdefault.jpg' alt='Unboxing SoundPEATS Space 🙌' />
-</a>
-<a href='https://youtu.be/B1Fi3JAPyzM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/B1Fi3JAPyzM/mqdefault.jpg' alt='¿Quién no tiene un compañero así 🤣?' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
