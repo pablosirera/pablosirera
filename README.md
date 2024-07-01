@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/_WgTTrdaUv0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/_WgTTrdaUv0/mqdefault.jpg' alt='Mi espacio favorito 😍' />
+</a>
 <a href='https://youtu.be/lHDMOTVsrFE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lHDMOTVsrFE/mqdefault.jpg' alt='Define tu stack de programación' />
 </a>
 <a href='https://youtu.be/Opza6SRpeSI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Opza6SRpeSI/mqdefault.jpg' alt='Cheatsheet de JavaScript 📚' />
-</a>
-<a href='https://youtu.be/Qk1H7poi61U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Qk1H7poi61U/mqdefault.jpg' alt='Los imprescindibles para mi setup 😍✨' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
