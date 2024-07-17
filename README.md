@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/M_rU2zDHV4E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/M_rU2zDHV4E/mqdefault.jpg' alt='Herramienta para inspeccionar colores 🎨🔍' />
+</a>
 <a href='https://youtu.be/WyG6mFwLdag' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WyG6mFwLdag/mqdefault.jpg' alt='Webs de inspiración para tus proyectos' />
 </a>
 <a href='https://youtu.be/ixfd_ORzsm4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ixfd_ORzsm4/mqdefault.jpg' alt='¿Quién se siente identificado?' />
-</a>
-<a href='https://youtu.be/Ph5qybZRF6g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ph5qybZRF6g/mqdefault.jpg' alt='Averigua cuánto tiempo pasas programando' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
