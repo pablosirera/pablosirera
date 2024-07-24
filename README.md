@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/x1057mmqx18' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/x1057mmqx18/mqdefault.jpg' alt='Plataforma con ideas y código para tus proyectos web' />
+</a>
 <a href='https://youtu.be/RGcSpXLVM_M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RGcSpXLVM_M/mqdefault.jpg' alt='¿Subir los cambios viernes y sin revisar? #humor' />
 </a>
 <a href='https://youtu.be/XYbvhMOyttY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XYbvhMOyttY/mqdefault.jpg' alt='Vlog por Madrid. Trabajando en remoto' />
-</a>
-<a href='https://youtu.be/M_rU2zDHV4E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/M_rU2zDHV4E/mqdefault.jpg' alt='Herramienta para inspeccionar colores 🎨🔍' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
