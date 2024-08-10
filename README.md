@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/NOk3GDinIY4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NOk3GDinIY4/mqdefault.jpg' alt='Si hay que subir cambios, se suben' />
+</a>
 <a href='https://youtu.be/Cj2JqsZCpCc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Cj2JqsZCpCc/mqdefault.jpg' alt='Todo el tiempo que trabajo como tech lead frontend en una semana' />
 </a>
 <a href='https://youtu.be/SXGKaxnZl1s' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SXGKaxnZl1s/mqdefault.jpg' alt='Crea tu CV en Markdown' />
-</a>
-<a href='https://youtu.be/Y2B3fUI5WQ0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Y2B3fUI5WQ0/mqdefault.jpg' alt='Cómo organizo mi vida | Tips y aplicaciones que uso' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
