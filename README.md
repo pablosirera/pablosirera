@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/SDO77KAh9XU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/SDO77KAh9XU/mqdefault.jpg' alt='Todos hemos estado ahí' />
+</a>
 <a href='https://youtu.be/jEAkE_0yECs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jEAkE_0yECs/mqdefault.jpg' alt='Landings GRATIS para tus proyectos 🎉' />
 </a>
 <a href='https://youtu.be/wAehh4P8PYs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wAehh4P8PYs/mqdefault.jpg' alt='work with me 💻🐈‍⬛☕️' />
-</a>
-<a href='https://youtu.be/kki5C0VaeH0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/kki5C0VaeH0/mqdefault.jpg' alt='Crea tu layout al estilo Pinterest con CSS' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
