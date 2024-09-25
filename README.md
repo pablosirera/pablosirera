@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/wnp54R6qhxU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/wnp54R6qhxU/mqdefault.jpg' alt='El lado oscuro del trabajo en remoto: Cafés, Co-Working y trabajar solo' />
+</a>
 <a href='https://youtu.be/9eavcwQF3PQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9eavcwQF3PQ/mqdefault.jpg' alt='3 Soft Skills que Todo Programador Necesita' />
 </a>
 <a href='https://youtu.be/lLqENKqTnaQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lLqENKqTnaQ/mqdefault.jpg' alt='4 Herramientas Open Source para devs #developerlife' />
-</a>
-<a href='https://youtu.be/XooalZnQWYQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XooalZnQWYQ/mqdefault.jpg' alt='Crea tu Grid Layout con CSS fácil y rápido' />
+  <img width='30%' src='https://img.youtube.com/vi/lLqENKqTnaQ/mqdefault.jpg' alt='Las Herramientas Open Source revolucionarias para developers' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
