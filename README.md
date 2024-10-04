@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/BzZ6l8DHKv4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/BzZ6l8DHKv4/mqdefault.jpg' alt='El famoso THIS en JavaScript' />
+</a>
 <a href='https://youtu.be/0tezUKSfDDY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0tezUKSfDDY/mqdefault.jpg' alt='Librería de CALENDARIO 📅 para JavaScript' />
 </a>
 <a href='https://youtu.be/sW8v_4qWi9M' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sW8v_4qWi9M/mqdefault.jpg' alt='4 Extensiones de VSCode que NECESITAS para programar MEJOR' />
-</a>
-<a href='https://youtu.be/SgA4C-09n48' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SgA4C-09n48/mqdefault.jpg' alt='La realidad de trabajar como programador' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
