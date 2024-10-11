@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/NmQaFO14nPw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NmQaFO14nPw/mqdefault.jpg' alt='Guía PASO a PASO para Migrar de NUXT2 a NUXT3' />
+</a>
+<a href='https://youtu.be/xsyjfMoaDQE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xsyjfMoaDQE/mqdefault.jpg' alt='Iconos GRATIS de las marcas más populares' />
+</a>
 <a href='https://youtu.be/H2N0lvyE-y4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/H2N0lvyE-y4/mqdefault.jpg' alt='Unboxing cargador 3x1 de Kuxiu' />
-</a>
-<a href='https://youtu.be/BzZ6l8DHKv4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/BzZ6l8DHKv4/mqdefault.jpg' alt='El famoso THIS en JavaScript' />
-</a>
-<a href='https://youtu.be/0tezUKSfDDY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0tezUKSfDDY/mqdefault.jpg' alt='Librería de CALENDARIO 📅 para JavaScript' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
