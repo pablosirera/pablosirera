@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/AA6KGSzamsg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AA6KGSzamsg/mqdefault.jpg' alt='"Esta feature la termino yo hoy" | Jamás fue así 🤣' />
+</a>
 <a href='https://youtu.be/0KBTmMqBjzE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/0KBTmMqBjzE/mqdefault.jpg' alt='Las herramientas que DEBERÍAS usar si eres developer en 2024' />
 </a>
 <a href='https://youtu.be/SZmJsfKtmlU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SZmJsfKtmlU/mqdefault.jpg' alt='Tus MARCADORES en una web accesible' />
-</a>
-<a href='https://youtu.be/-5Zf_OudDx0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-5Zf_OudDx0/mqdefault.jpg' alt='Dora: la IA que te hace webs gratis' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
