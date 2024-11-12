@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/PRRc9f_crcg' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PRRc9f_crcg/mqdefault.jpg' alt='Practica proyectos FRONTEND para mejorar tus habilidades' />
+</a>
 <a href='https://youtu.be/xBGJh_0FFSk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xBGJh_0FFSk/mqdefault.jpg' alt='Cómo GANAR DINERO programando en 2024 💸' />
 </a>
 <a href='https://youtu.be/AA6KGSzamsg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/AA6KGSzamsg/mqdefault.jpg' alt='"Esta feature la termino yo hoy" | Jamás fue así 🤣' />
-</a>
-<a href='https://youtu.be/0KBTmMqBjzE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/0KBTmMqBjzE/mqdefault.jpg' alt='Las herramientas que DEBERÍAS usar si eres developer en 2024' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
