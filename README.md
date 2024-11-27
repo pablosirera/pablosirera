@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/YpxshX4w03s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YpxshX4w03s/mqdefault.jpg' alt='Los gadgets tecnológicos que uso cada día (¡y recomiendo!)' />
+</a>
+<a href='https://youtu.be/jjFKHwGHfsQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jjFKHwGHfsQ/mqdefault.jpg' alt='Mejora tu perfil de GitHub 📋' />
+</a>
 <a href='https://youtu.be/zKjqd5KV_6g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zKjqd5KV_6g/mqdefault.jpg' alt='De Cero a Desarrollador Web: Mi Ruta Completa para Aprender y Conseguir Trabajo 💼' />
-</a>
-<a href='https://youtu.be/lq-uJUxQdgI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lq-uJUxQdgI/mqdefault.jpg' alt='Host rápido y fácil' />
-</a>
-<a href='https://youtu.be/F73qhwGTlGA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/F73qhwGTlGA/mqdefault.jpg' alt='¿Necesitas más orden en tu setup? Unboxing cargador 3 en 1 de Kuxiu' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
