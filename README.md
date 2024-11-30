@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/HZE2vcRtTaM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HZE2vcRtTaM/mqdefault.jpg' alt='Aprende JavaScript en 24 días 😍🎄' />
+</a>
 <a href='https://youtu.be/j_h6kLLc_YQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/j_h6kLLc_YQ/mqdefault.jpg' alt='Skeletons con Tailwindcss' />
 </a>
 <a href='https://youtu.be/2sMSIIYxccw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2sMSIIYxccw/mqdefault.jpg' alt='Productos TECH esenciales en mi vida' />
-</a>
-<a href='https://youtu.be/YpxshX4w03s' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/YpxshX4w03s/mqdefault.jpg' alt='Los gadgets tecnológicos que uso cada día (¡y recomiendo!)' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
