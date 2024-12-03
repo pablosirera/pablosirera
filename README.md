@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/TC0qmqJbeRk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/TC0qmqJbeRk/mqdefault.jpg' alt='Cómo Incluir JavaScript en Tu Proyecto | Día 2 del Calendario de Adviento' />
+</a>
 <a href='https://youtu.be/Vos53yJkW5c' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Vos53yJkW5c/mqdefault.jpg' alt='¿Qué es JavaScript y Para Qué Sirve? | Día 1 del Calendario de Adviento' />
 </a>
 <a href='https://youtu.be/HZE2vcRtTaM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HZE2vcRtTaM/mqdefault.jpg' alt='Aprende JavaScript en 24 días 😍🎄' />
-</a>
-<a href='https://youtu.be/j_h6kLLc_YQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/j_h6kLLc_YQ/mqdefault.jpg' alt='Skeletons con Tailwindcss' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
