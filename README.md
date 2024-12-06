@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/nJpIHQ6UbKI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nJpIHQ6UbKI/mqdefault.jpg' alt='Operadores Aritméticos en JavaScript | Día 5 del Calendario de Adviento' />
+</a>
+<a href='https://youtu.be/AQezZGDX3Wk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AQezZGDX3Wk/mqdefault.jpg' alt='Música lofi para programar, estudiar y trabajar 👨‍💻' />
+</a>
 <a href='https://youtu.be/si2uzwboBzQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/si2uzwboBzQ/mqdefault.jpg' alt='Tipos de Datos en JavaScript | Día 4 del Calendario de Adviento' />
-</a>
-<a href='https://youtu.be/xJBvLarY6s8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xJBvLarY6s8/mqdefault.jpg' alt='Introducción a las Variables en JavaScript: var, let y const | Día 3 del Calendario de Adviento' />
-</a>
-<a href='https://youtu.be/TC0qmqJbeRk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TC0qmqJbeRk/mqdefault.jpg' alt='Cómo Incluir JavaScript en Tu Proyecto | Día 2 del Calendario de Adviento' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
