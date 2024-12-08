@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/FWpfMluG6oc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FWpfMluG6oc/mqdefault.jpg' alt='Condicionales y Operadores Lógicos en JavaScript | Día 7 del Calendario de Adviento' />
+</a>
 <a href='https://youtu.be/z_lqQBfxLeg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/z_lqQBfxLeg/mqdefault.jpg' alt='Cómo Escribir tu Primera Función en JavaScript | Día 6 del Calendario de Adviento' />
 </a>
 <a href='https://youtu.be/nJpIHQ6UbKI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nJpIHQ6UbKI/mqdefault.jpg' alt='Operadores Aritméticos en JavaScript | Día 5 del Calendario de Adviento' />
-</a>
-<a href='https://youtu.be/AQezZGDX3Wk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AQezZGDX3Wk/mqdefault.jpg' alt='Música lofi para programar, estudiar y trabajar 👨‍💻' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
