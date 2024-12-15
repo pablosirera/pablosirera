@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/qFoTCmrzzKo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/qFoTCmrzzKo/mqdefault.jpg' alt='Funciones Flecha (Arrow Functions) en JavaScript | Día 14 del Calendario de Adviento' />
+</a>
 <a href='https://youtu.be/g4_LSvNSrP8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/g4_LSvNSrP8/mqdefault.jpg' alt='Cómo Depurar Código en JavaScript con console.log y debugger | Día 13 del Calendario de Adviento' />
 </a>
 <a href='https://youtu.be/2VuBHD2LSWs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2VuBHD2LSWs/mqdefault.jpg' alt='Cómo Manejar Eventos en JavaScript | Día 12 del Calendario de Adviento' />
-</a>
-<a href='https://youtu.be/uagflUiScrM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/uagflUiScrM/mqdefault.jpg' alt='Manipulación del DOM con JavaScript | Día 11 del Calendario de Adviento' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
