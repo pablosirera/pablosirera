@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/eSdrbT8HvXE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/eSdrbT8HvXE/mqdefault.jpg' alt='Cómo Usar Fetch API en JavaScript | Día 22 del Calendario de Adviento' />
+</a>
 <a href='https://youtu.be/TeqzZ64E3Mg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TeqzZ64E3Mg/mqdefault.jpg' alt='Cómo Manejar Errores en JavaScript con try...catch | Día 21 del Calendario de Adviento' />
 </a>
 <a href='https://youtu.be/zzkQcVhmH_4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zzkQcVhmH_4/mqdefault.jpg' alt='Cómo Usar Promesas, Async y Await en JavaScript | Día 20 del Calendario de Adviento' />
-</a>
-<a href='https://youtu.be/GvXjrpDKGqg' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GvXjrpDKGqg/mqdefault.jpg' alt='Cómo Usar Clases en JavaScript | Día 19 del Calendario de Adviento' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
