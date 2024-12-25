@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/M2cNf6JNYP0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/M2cNf6JNYP0/mqdefault.jpg' alt='Repaso Final y Próximos Pasos para Aprender JavaScript | Día 24 del Calendario de Adviento' />
+</a>
 <a href='https://youtu.be/-XX7dCh4zng' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-XX7dCh4zng/mqdefault.jpg' alt='Cómo Usar Local Storage en JavaScript | Día 23 del Calendario de Adviento' />
 </a>
 <a href='https://youtu.be/glsRjRQP558' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/glsRjRQP558/mqdefault.jpg' alt='GitHub copilot gratis para todos' />
-</a>
-<a href='https://youtu.be/eSdrbT8HvXE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eSdrbT8HvXE/mqdefault.jpg' alt='Cómo Usar Fetch API en JavaScript | Día 22 del Calendario de Adviento' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
