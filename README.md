@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/sM2JS-8x-5g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/sM2JS-8x-5g/mqdefault.jpg' alt='Mejora tus habilidades frontend' />
+</a>
 <a href='https://youtu.be/1JrDLUDTHkE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1JrDLUDTHkE/mqdefault.jpg' alt='Crea tu Avatar Gratis al Estilo Notion: ¡Fácil y Rápido!' />
 </a>
 <a href='https://youtu.be/5S8ztng9nbM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5S8ztng9nbM/mqdefault.jpg' alt='Inspírate y crea con plantillas gratis 💸' />
-</a>
-<a href='https://youtu.be/oNAwmT-NE2k' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oNAwmT-NE2k/mqdefault.jpg' alt='¡Elegir el MEJOR framework frontend en 2025!' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
