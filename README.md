@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/8ouxWm7ewSE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/8ouxWm7ewSE/mqdefault.jpg' alt='TikTok ha creado un editor de código… ¿Es mejor que VS Code 🤯?' />
+</a>
 <a href='https://youtu.be/Yt-hlfNAGik' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Yt-hlfNAGik/mqdefault.jpg' alt='Mejora tus UI con estos tips imprescindibles para Developers' />
 </a>
 <a href='https://youtu.be/sM2JS-8x-5g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/sM2JS-8x-5g/mqdefault.jpg' alt='Mejora tus habilidades frontend' />
-</a>
-<a href='https://youtu.be/1JrDLUDTHkE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/1JrDLUDTHkE/mqdefault.jpg' alt='Crea tu Avatar Gratis al Estilo Notion: ¡Fácil y Rápido!' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
