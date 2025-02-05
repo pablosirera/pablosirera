@@ -34,7 +34,7 @@
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
 <a href='https://youtu.be/8ouxWm7ewSE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/8ouxWm7ewSE/mqdefault.jpg' alt='TikTok ha creado un editor de código… ¿Es mejor que VS Code 🤯?' />
+  <img width='30%' src='https://img.youtube.com/vi/8ouxWm7ewSE/mqdefault.jpg' alt='Probé el editor de código de TikTok… ¡Te sorprenderá! 🚀' />
 </a>
 <a href='https://youtu.be/Yt-hlfNAGik' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Yt-hlfNAGik/mqdefault.jpg' alt='Mejora tus UI con estos tips imprescindibles para Developers' />
