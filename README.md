@@ -37,7 +37,7 @@
   <img width='30%' src='https://img.youtube.com/vi/W3c5YQ9qZrY/mqdefault.jpg' alt='HTML para principiantes: Aprende a crear tu primer sitio web fácilmente' />
 </a>
 <a href='https://youtu.be/vFNb8dPbTqU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/vFNb8dPbTqU/mqdefault.jpg' alt='Cómo conseguir tu primer trabajo como programador (Paso a paso)' />
+  <img width='30%' src='https://img.youtube.com/vi/vFNb8dPbTqU/mqdefault.jpg' alt='Consigue tu primer trabajo en PROGRAMACIÓN con estos pasos ✅' />
 </a>
 <a href='https://youtu.be/_LmQgn4KAPU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/_LmQgn4KAPU/mqdefault.jpg' alt='3 APIs del navegador que no conocías' />
