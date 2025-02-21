@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/4hdaU23fLtM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4hdaU23fLtM/mqdefault.jpg' alt='Convierte JSON a TypeScript de forma fácil y rápida' />
+</a>
 <a href='https://youtu.be/W3c5YQ9qZrY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/W3c5YQ9qZrY/mqdefault.jpg' alt='HTML para principiantes: Aprende a crear tu primer sitio web fácilmente' />
 </a>
 <a href='https://youtu.be/vFNb8dPbTqU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/vFNb8dPbTqU/mqdefault.jpg' alt='Consigue tu primer trabajo en PROGRAMACIÓN con estos pasos ✅' />
-</a>
-<a href='https://youtu.be/_LmQgn4KAPU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_LmQgn4KAPU/mqdefault.jpg' alt='3 APIs del navegador que no conocías' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
