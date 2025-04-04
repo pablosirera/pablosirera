@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/dlx1JN55PS0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dlx1JN55PS0/mqdefault.jpg' alt='Gradientes para CSS o Tailwind' />
+</a>
 <a href='https://youtu.be/w-yV7kth-e4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/w-yV7kth-e4/mqdefault.jpg' alt='Wegic: crea tu web con IA fácil y rápido 💨' />
 </a>
 <a href='https://youtu.be/u55JJA7JiRk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/u55JJA7JiRk/mqdefault.jpg' alt='Domina las bases de CSS' />
-</a>
-<a href='https://youtu.be/4hdaU23fLtM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/4hdaU23fLtM/mqdefault.jpg' alt='Convierte JSON a TypeScript de forma fácil y rápida' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
