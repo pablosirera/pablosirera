@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/bDRZyayLgQ0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bDRZyayLgQ0/mqdefault.jpg' alt='Mi opinión sobre el ‘Vibe Coding’' />
+</a>
 <a href='https://youtu.be/8Emoe54gLRI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/8Emoe54gLRI/mqdefault.jpg' alt='¿Cuánto cuesta una reunión? ¡Haz el cálculo!' />
 </a>
 <a href='https://youtu.be/9ncTlvXKZg0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9ncTlvXKZg0/mqdefault.jpg' alt='+4000 ideas de proyectos para desarrollar 👀' />
-</a>
-<a href='https://youtu.be/X16mhLD7J1g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/X16mhLD7J1g/mqdefault.jpg' alt='POV: Confías en una IA gratuita para entregar tu proyecto a última hora 😅' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
