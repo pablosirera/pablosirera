@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/gOnRnuR55vU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gOnRnuR55vU/mqdefault.jpg' alt='Nadie te enseña a comunicarte en equipos tech' />
+</a>
 <a href='https://youtu.be/ejseQIADjhQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ejseQIADjhQ/mqdefault.jpg' alt='Aprende Typescript gratis con esta web 🚀' />
 </a>
 <a href='https://youtu.be/L1CcnJmyaLA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/L1CcnJmyaLA/mqdefault.jpg' alt='Un día como PROGRAMADOR y CREADOR DE CONTENIDO 🧑‍💻' />
-</a>
-<a href='https://youtu.be/j5N6wJYmUm8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/j5N6wJYmUm8/mqdefault.jpg' alt='Mi nueva newsletter para devs: herramientas, recursos y reflexiones reales' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
