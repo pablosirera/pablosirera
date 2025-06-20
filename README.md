@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/2ZpPF3D01lo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/2ZpPF3D01lo/mqdefault.jpg' alt='Cómo crear tours de onboarding en minutos con UserTour' />
+</a>
 <a href='https://youtu.be/ZHVk01ci0i8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZHVk01ci0i8/mqdefault.jpg' alt='¿Deberías comprar un monitor ultrawide de 34”?' />
 </a>
 <a href='https://youtu.be/tiDqj2yrERg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tiDqj2yrERg/mqdefault.jpg' alt='Diseños gratis con IA 🤖 hechos por Google Stitch' />
-</a>
-<a href='https://youtu.be/gOnRnuR55vU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gOnRnuR55vU/mqdefault.jpg' alt='Nadie te enseña a comunicarte en equipos tech' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
