@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/OpYSceAFPsI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OpYSceAFPsI/mqdefault.jpg' alt='Organízate como dev: el hábito que marca la diferencia' />
+</a>
 <a href='https://youtu.be/NsTrljOEQzY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/NsTrljOEQzY/mqdefault.jpg' alt='Curso gratis de algoritmos en JavaScript' />
 </a>
 <a href='https://youtu.be/2ZpPF3D01lo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/2ZpPF3D01lo/mqdefault.jpg' alt='Cómo crear tours de onboarding en minutos con UserTour' />
-</a>
-<a href='https://youtu.be/ZHVk01ci0i8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZHVk01ci0i8/mqdefault.jpg' alt='¿Deberías comprar un monitor ultrawide de 34”?' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
