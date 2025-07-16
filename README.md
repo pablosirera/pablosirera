@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/t8PEt-R-Qi0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/t8PEt-R-Qi0/mqdefault.jpg' alt='Mi truco salvavidas como dev: apuntar lo que no entiendo' />
+</a>
 <a href='https://youtu.be/57KXNAyTHsQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/57KXNAyTHsQ/mqdefault.jpg' alt='Componentes Tailwind únicos y gratis con Hyper UI' />
 </a>
 <a href='https://youtu.be/GfuRwpvXFdk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GfuRwpvXFdk/mqdefault.jpg' alt='Cómo desconectar cuando trabajas en remoto' />
-</a>
-<a href='https://youtu.be/Zkpp98EL50o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Zkpp98EL50o/mqdefault.jpg' alt='Prepárate para entrevistas técnicas (gratis)' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
