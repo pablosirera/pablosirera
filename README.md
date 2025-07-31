@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/C5HtT8SJceY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/C5HtT8SJceY/mqdefault.jpg' alt='Animaciones fáciles con TailwindCSS: recurso imprescindible' />
+</a>
 <a href='https://youtu.be/SUd6AS_iIiY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SUd6AS_iIiY/mqdefault.jpg' alt='Más frameworks ≠ mejor desarrollador: lo que realmente importa' />
 </a>
 <a href='https://youtu.be/G80vqB7sgPo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/G80vqB7sgPo/mqdefault.jpg' alt='Principios clave en programación' />
-</a>
-<a href='https://youtu.be/t8PEt-R-Qi0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/t8PEt-R-Qi0/mqdefault.jpg' alt='Mi truco salvavidas como dev: apuntar lo que no entiendo' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
