@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/MEH5zOnF1fo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MEH5zOnF1fo/mqdefault.jpg' alt='GPT-5 Codex: ¿nuevo superpoder para devs?' />
+</a>
 <a href='https://youtu.be/1jVrxr49YIE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1jVrxr49YIE/mqdefault.jpg' alt='Probando mi nuevo teclado mecánico de Kzzi (layout US) – ¿vale la pena?' />
 </a>
 <a href='https://youtu.be/C5HtT8SJceY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/C5HtT8SJceY/mqdefault.jpg' alt='Animaciones fáciles con TailwindCSS: recurso imprescindible' />
-</a>
-<a href='https://youtu.be/SUd6AS_iIiY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SUd6AS_iIiY/mqdefault.jpg' alt='Más frameworks ≠ mejor desarrollador: lo que realmente importa' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
