@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/5jnCRLnjhtU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5jnCRLnjhtU/mqdefault.jpg' alt='💡Buenas prácticas npm que deberías conocer' />
+</a>
 <a href='https://youtu.be/CuLUdsX9pCc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CuLUdsX9pCc/mqdefault.jpg' alt='ChatGPT Pulse: tu resumen diario con IA ☕' />
 </a>
 <a href='https://youtu.be/qhQiok2yfdc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/qhQiok2yfdc/mqdefault.jpg' alt='Dyad: crea apps completas con IA (open source)' />
-</a>
-<a href='https://youtu.be/9WmaJMIlyqE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9WmaJMIlyqE/mqdefault.jpg' alt='Claude Sonnet 4.5 ya está aquí 🚀' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
