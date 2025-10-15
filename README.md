@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/zVWcl7YEEBY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/zVWcl7YEEBY/mqdefault.jpg' alt='La UE quiere acabar con los banners de cookies' />
+</a>
 <a href='https://youtu.be/DqFCyNZKEN0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DqFCyNZKEN0/mqdefault.jpg' alt='Curso gratis para dominar Cursor' />
 </a>
 <a href='https://youtu.be/5jnCRLnjhtU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5jnCRLnjhtU/mqdefault.jpg' alt='💡Buenas prácticas npm que deberías conocer' />
-</a>
-<a href='https://youtu.be/CuLUdsX9pCc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/CuLUdsX9pCc/mqdefault.jpg' alt='ChatGPT Pulse: tu resumen diario con IA ☕' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
