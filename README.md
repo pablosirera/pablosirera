@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/r2md8Fld8o4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/r2md8Fld8o4/mqdefault.jpg' alt='ChatGPT Atlas: un nuevo navegador de IA' />
+</a>
 <a href='https://youtu.be/uTRYzvT-928' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uTRYzvT-928/mqdefault.jpg' alt='5 cursos gratis para programar' />
 </a>
 <a href='https://youtu.be/33dzojuvImA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/33dzojuvImA/mqdefault.jpg' alt='5 APIs públicas y gratis para practicar' />
-</a>
-<a href='https://youtu.be/_1rSrYZafiM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/_1rSrYZafiM/mqdefault.jpg' alt='Por fin he arreglado los cables del setup' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
