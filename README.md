@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/T8OncKscm50' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/T8OncKscm50/mqdefault.jpg' alt='El futuro del desarrollo web (según yo)' />
+</a>
 <a href='https://youtu.be/YpJoRVon2hw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YpJoRVon2hw/mqdefault.jpg' alt='Cómo uso Warp en mi día a día como developer' />
 </a>
 <a href='https://youtu.be/Sr4T8hDdCnQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Sr4T8hDdCnQ/mqdefault.jpg' alt='Un nuevo trabajo: Vibe Coding Cleanup' />
-</a>
-<a href='https://youtu.be/r2md8Fld8o4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/r2md8Fld8o4/mqdefault.jpg' alt='ChatGPT Atlas: un nuevo navegador de IA' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
