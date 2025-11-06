@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/3P_SggmgG0w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3P_SggmgG0w/mqdefault.jpg' alt='Crea temas para shadcn/ui en segundos con Shadcn Themer' />
+</a>
 <a href='https://youtu.be/L7p30mrZn3o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/L7p30mrZn3o/mqdefault.jpg' alt='Grokipedia: la Wikipedia con IA de Elon Musk' />
 </a>
 <a href='https://youtu.be/zY0svTdfkPQ' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/zY0svTdfkPQ/mqdefault.jpg' alt='Llega Cursor 2.0: más potente que nunca' />
-</a>
-<a href='https://youtu.be/T8OncKscm50' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/T8OncKscm50/mqdefault.jpg' alt='El futuro del desarrollo web (según yo)' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
