@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/dTcIFS_nGvQ' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/dTcIFS_nGvQ/mqdefault.jpg' alt='Si estás empezando a programar mira esto primero' />
+</a>
 <a href='https://youtu.be/wSxPmIN0rEU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wSxPmIN0rEU/mqdefault.jpg' alt='La mejor librería de componentes con animaciones para Vue' />
 </a>
 <a href='https://youtu.be/WenWXCoCDmM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/WenWXCoCDmM/mqdefault.jpg' alt='¿Se aprende más en YouTube que en la universidad?' />
-</a>
-<a href='https://youtu.be/6yIkXPoZtlM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6yIkXPoZtlM/mqdefault.jpg' alt='Tips sencillos para mejorar la accesibilidad web' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
