@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/OLaorRSFIkI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OLaorRSFIkI/mqdefault.jpg' alt='Mejora el rendimiento de tu web con Sonda' />
+</a>
 <a href='https://youtu.be/lrKJxZmHvEk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lrKJxZmHvEk/mqdefault.jpg' alt='Estas herramientas con IA me ahorran horas cada semana programando' />
 </a>
 <a href='https://youtu.be/aSqlen4njcw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/aSqlen4njcw/mqdefault.jpg' alt='Tour completo de mi setup como dev | 5 años de evolución' />
-</a>
-<a href='https://youtu.be/LDXKUlYqIcY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LDXKUlYqIcY/mqdefault.jpg' alt='Ver vídeos no te enseñará a programar' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
