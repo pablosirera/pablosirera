@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/hMu_pMSsKuc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/hMu_pMSsKuc/mqdefault.jpg' alt='La trampa de la productividad como developer' />
+</a>
 <a href='https://youtu.be/SD1vo9dcCg0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SD1vo9dcCg0/mqdefault.jpg' alt='Porque uso Cursor y no volvería a Copilot' />
 </a>
 <a href='https://youtu.be/ziatjxMq0DU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ziatjxMq0DU/mqdefault.jpg' alt='El verdadero problema de las herramientas de IA' />
-</a>
-<a href='https://youtu.be/OLaorRSFIkI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/OLaorRSFIkI/mqdefault.jpg' alt='Mejora el rendimiento de tu web con Sonda' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
