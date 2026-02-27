@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/PuMskUWW8tM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PuMskUWW8tM/mqdefault.jpg' alt='Después de 6 años trabajando en remoto, así organizo mis días' />
+</a>
 <a href='https://youtu.be/9rFhSBu4TeU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9rFhSBu4TeU/mqdefault.jpg' alt='Por qué validar tu código es clave en la era de la IA' />
 </a>
 <a href='https://youtu.be/Eb8y-5Uw3wg' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Eb8y-5Uw3wg/mqdefault.jpg' alt='Cómo uso la IA en mi día a día programando' />
-</a>
-<a href='https://youtu.be/hMu_pMSsKuc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/hMu_pMSsKuc/mqdefault.jpg' alt='La trampa de la productividad como developer' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
