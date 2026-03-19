@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/4DA2WttE3uE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/4DA2WttE3uE/mqdefault.jpg' alt='Sal de tu zona de confort' />
+</a>
 <a href='https://youtu.be/-Zh3JMthISM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-Zh3JMthISM/mqdefault.jpg' alt='Copiar código no es el problema' />
 </a>
 <a href='https://youtu.be/5ndO4yvZscc' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/5ndO4yvZscc/mqdefault.jpg' alt='Los programadores juniors no investigan, solo preguntan' />
-</a>
-<a href='https://youtu.be/9fP4Kg2ybH4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9fP4Kg2ybH4/mqdefault.jpg' alt='5 errores que te mantienen como programador junior' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
