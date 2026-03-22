@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/3hZs1bqbksE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/3hZs1bqbksE/mqdefault.jpg' alt='No esperes a que alguien te diga que eres senior' />
+</a>
 <a href='https://youtu.be/JgQ9pSNow2k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/JgQ9pSNow2k/mqdefault.jpg' alt='Elige bien tu stack y céntrate en él' />
 </a>
 <a href='https://youtu.be/4DA2WttE3uE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/4DA2WttE3uE/mqdefault.jpg' alt='Sal de tu zona de confort' />
-</a>
-<a href='https://youtu.be/-Zh3JMthISM' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-Zh3JMthISM/mqdefault.jpg' alt='Copiar código no es el problema' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
