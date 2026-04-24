@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/PVOGivPGero' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/PVOGivPGero/mqdefault.jpg' alt='Este dashboard con Nuxt te ahorra horas de trabajo' />
+</a>
 <a href='https://youtu.be/e3k5Gt_SQno' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/e3k5Gt_SQno/mqdefault.jpg' alt='Si la IA escribe el código… ¿qué hará un dev?' />
 </a>
 <a href='https://youtu.be/ctRlRMpqil8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ctRlRMpqil8/mqdefault.jpg' alt='Reduce tokens un 75% con este truco de IA' />
-</a>
-<a href='https://youtu.be/w2loiS_EMq0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/w2loiS_EMq0/mqdefault.jpg' alt='No consigues trabajo como programador por esto (y no es falta de nivel)' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
