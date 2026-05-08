@@ -33,14 +33,14 @@
 
 #### 📹 Latest videos on [my primary Youtube Channel](https://youtube.com/pablosirera):
 
+<a href='https://youtu.be/EVvDMMkSkLk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/EVvDMMkSkLk/mqdefault.jpg' alt='Widgets estilo iPhone para tu web 😮‍💨' />
+</a>
 <a href='https://youtu.be/tq47iniuTZs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/tq47iniuTZs/mqdefault.jpg' alt='Curiosidad vs talento: qué te hace mejor dev' />
 </a>
 <a href='https://youtu.be/PVOGivPGero' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/PVOGivPGero/mqdefault.jpg' alt='Este dashboard con Nuxt te ahorra horas de trabajo' />
-</a>
-<a href='https://youtu.be/e3k5Gt_SQno' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/e3k5Gt_SQno/mqdefault.jpg' alt='Si la IA escribe el código… ¿qué hará un dev?' />
 </a>
 
 📹 More videos on [my live Youtube Channel](https://youtube.com/@pablosireralive):
